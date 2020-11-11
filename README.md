@@ -9,4 +9,5 @@ pip install html5lib
 
 ### Usage
 The domain is already set in the Crawler.py
+
 `python Crawler.py`
